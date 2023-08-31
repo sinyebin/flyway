@@ -1,0 +1,1 @@
+ALTER TABLE member ADD address varchar(255);
